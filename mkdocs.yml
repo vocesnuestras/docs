@@ -1,9 +1,0 @@
-site_name: Voces Nuestras
-theme: readthedocs
-pages:
-- [index.md, Inicio]
-- [conceptos.md, Conceptos]
-- [inicioSesion.md, Acceso al sitio]
-- [admUsrs.md, Administración de cuentas]
-- [admCont.md, Administración de contenido]
-- [admFront.md, La página principal]
