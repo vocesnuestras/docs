@@ -1,7 +1,7 @@
-Publicación de contenido
-========================
+Publicación
+===========
 
-Para hacer una nueva publicación:
+Para crear una nueva publicación.
 
 Ingrese al menú administrativo: Contenido >> Agregar contenido.
 

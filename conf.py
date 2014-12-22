@@ -21,9 +21,15 @@ language  = 'es'
 
 # HTML OUTPUT
 # --------------------------------------
-html_title = "Voces Nuestras, Guia de Uso"
+html_title   = "Voces Nuestras, Guia de Uso"
 html_logo    = 'img/logo.svg'
 html_favicon = 'img/favicon.ico'
+htmlhelp_basename = 'VocesNuestrasdoc'
+
+# html_show_sourcelink = False
+# html_show_copyright  = False
+# html_show_sphinx     = False
+
 html_theme = "default"
 html_theme_options = {
   "headfont": "'Lato', sans-serif",
@@ -40,14 +46,10 @@ html_theme_options = {
   "relbarlinkcolor":  "#222",
   "sidebarbgcolor":   "#f7f7f7",
   "sidebartextcolor": "#222",
-  "sidebarlinkcolor": "f6902f",
+  "sidebarlinkcolor": "#f6902f",
   "footerbgcolor":    "#f6b32a",
   "footertextcolor":  "#222"
 }
-htmlhelp_basename = 'VocesNuestrasdoc'
-# html_show_sourcelink = False
-# html_show_copyright  = False
-# html_show_sphinx     = False
 
 # LATEX OUTPUT
 # --------------------------------------

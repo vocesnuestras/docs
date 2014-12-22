@@ -1,5 +1,5 @@
-Edición de contenido
-====================
+Edición
+=======
 
 Para acceder a la gestión de contenido:
 

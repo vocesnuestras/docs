@@ -1,7 +1,7 @@
 Voces Nuestras
 ==============
 
-La página web de Voces Nuestras es creada con `Drupal <http//:drupal.org>`_, una herramienta de `software libre <http://softwarelibrecr.org/>`_
+El sitio web de Voces Nuestras es creada con `Drupal <http//:drupal.org>`_, una herramienta de `software libre <http://softwarelibrecr.org/>`_
 
 La guía de uso comprende tres secciones:
 

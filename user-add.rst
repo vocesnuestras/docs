@@ -1,5 +1,5 @@
-Administración de cuentas
-=========================
+Cuentas de usuari@
+==================
 
 Para acceder a la gestión de cuentas de usuario:
 
